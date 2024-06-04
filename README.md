@@ -1,1 +1,1 @@
-
+NashAir is an airline booking wesbite which allows u took book flight tickets and choose ur meals for the flight. The fixed navigation bar has sections like home, about and contact and changes from translucent to opaque when scrolled.
